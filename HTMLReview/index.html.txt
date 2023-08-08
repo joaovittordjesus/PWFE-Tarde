@@ -1,0 +1,16 @@
+<DOCUMENT html>
+<html lang="pt-br, eng-us, eng, eng-uk">
+	<head>
+		<meta charset="utf-8">
+		<tittle>
+			HTML REVIEW
+		</tittle>
+	</head>
+	<body>
+
+	<h1>Título</h1>
+	<p>
+		Paragraph Paragraph Paragraph Paragraph Paragraph ParagraphParagraphParagraphParagraphParagraph
+	</p>
+	</body>
+</html>
